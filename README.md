@@ -1,3 +1,4 @@
+# About me
 - 👋 Hi, I’m @MisterCircuit
 - 👀 I’m interested in Embedded systems
 - 🌱 I’m currently learning how to implement real solutions from many developed prototypes
