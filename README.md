@@ -1,6 +1,6 @@
 # About me
 - 👋 Hi, I’m @MisterCircuit
-- 👀 I’m interested in Embedded systems
+- 👀 I’m interested in Embedded systems and Robotics
 - 🌱 I’m currently learning how to implement real solutions from many developed prototypes
 - 💞️ I’m looking to collaborate on circuit designs,arduino related projects,IoT
 - 📫 How to reach me: qoyyumadegoke@gmail.com
